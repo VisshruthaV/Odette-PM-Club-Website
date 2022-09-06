@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #fff;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -154,7 +154,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.75em;
 		line-height: 1.5em;
-		color: #216497;
+		color: #fff;
 	}
 
 	h4 {
@@ -1760,7 +1760,7 @@ input, select, textarea {
 	}
 
 header p {
-	color: #aaa;
+	color: #fff;
 	position: relative;
 	margin: 0 0 1.6875em 0;
 }
@@ -1786,12 +1786,12 @@ header p {
 	}
 
 	header.major h2 {
-		color: #216497;
+		color: #fff;
 		font-size: 2.9em;
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #fff;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -2451,7 +2451,7 @@ ul.feature-images {
 
 	ul.feature-images a {
 		text-decoration: none;
-		border-bottom: dotted 1px #216497;
+		border-bottom: solid 1px #fff;
 	}
 
 
@@ -2741,7 +2741,7 @@ input[type="button"],
 	-webkit-justify-content: space-between;
 	-ms-justify-content: space-between;
 	justify-content: space-between;
-	background: #216497;
+	background: #FFFFFF;
 	color: #fff;
 	height: 100%;
 	overflow-y: auto;
@@ -2752,13 +2752,13 @@ input[type="button"],
 	right: 0;
 }
 
-		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
-		}
+	#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
+		color: #1A181B;
+	}
 
-			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: #ffffff;
-			}
+		#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
+			color: #1A181B;
+		}
 
 		#header header p {
 			color: #b7eadc;
@@ -2769,7 +2769,7 @@ input[type="button"],
 		}
 
 			#header a:hover {
-				color: #F7E576 !important;
+				color: #216497 !important;
 			}
 
 		#header > header {
@@ -2792,7 +2792,8 @@ input[type="button"],
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #1A181B;
+				font-size: 1.5em;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2813,7 +2814,7 @@ input[type="button"],
 			}
 
 				#header > footer .icons li a {
-					color: #FCF0A6;
+					color: #216497;
 				}
 
 		#header > nav {
@@ -2830,9 +2831,10 @@ input[type="button"],
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #FCF0A6;
+					border-top: solid 2px #FFFFFF;
 					display: block;
 					padding: 0;
+					font-size: 1.25em;
 				}
 
 					#header > nav ul li a {
@@ -2841,15 +2843,15 @@ input[type="button"],
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #ffffff !important;
+						color: #1A181B !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #FCF0A6;
-							color: #216497 !important;
+							background: #216497;
+							color: #FFFFFF !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2858,15 +2860,15 @@ input[type="button"],
 
 /* Wrapper */
 
-	#wrapper {
-		background: #FCF0A6;
-		padding-right: 23em;
-	}
+#wrapper {
+	background: #1A181B;
+	padding-right: 23em;
+}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #FCF0A6;
+		border-top: solid 6px #1A181B;
 	}
 
 		#main > section > .container {
@@ -2880,7 +2882,7 @@ input[type="button"],
 /* Footer */
 
 	#footer {
-		background: #FCF0A6;
+		background: #1A181B;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
