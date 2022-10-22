@@ -2672,7 +2672,7 @@ input[type="button"],
 	height: 2.75em;
 	line-height: 2.75em;
 	width: 25em;
-	padding: 0 4em ; 
+	padding: 0 4em; 
 	text-align: center;
 	text-decoration: none;
 	white-space: nowrap;
@@ -2707,19 +2707,23 @@ input[type="button"],
 				margin-right: 0.5em;
 			}
 
-		input[type="submit"].fit,
-		input[type="reset"].fit,
-		input[type="button"].fit,
-		.button.fit {
-			width: 100%;
-		}
+	input[type="submit"].fit,
+	input[type="reset"].fit,
+	input[type="button"].fit,
+	.button.fit {
+		background-color: transparent;
+		width: 100%;
+	}
 
-		input[type="submit"].small,
-		input[type="reset"].small,
-		input[type="button"].small,
-		.button.small {
-			font-size: 0.8em;
-		}
+	input[type="submit"].small,
+	input[type="reset"].small,
+	input[type="button"].small,
+	.button.small {
+		font-size: 1em;
+		width: 100%;
+		text-align: center;
+		box-shadow: inset 0 2px 8px 2px #216497;
+	}
 
 		input[type="submit"].large,
 		input[type="reset"].large,
@@ -2763,22 +2767,25 @@ input[type="button"],
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #216497;
-			color: #ffffff !important;
+			background-color: transparent;
+			color: #fff !important;
+			text-align: center;
 		}
 
 			input[type="submit"].primary:hover,
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #34BAD5;
+				background-color: #9FD3FA;
+				box-shadow: inset 0 2px 8px 2px #216497;
+				color: #1A181B !important;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #39c29d;
+				background-color: #eaeaea;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2949,13 +2956,14 @@ input[type="button"],
 						border: 0;
 						color: #1A181B !important;
 						display: block;
-						padding: 0.5em 0;
+						padding: 0.35em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
 							background: #216497;
 							color: #FFFFFF !important;
+							box-shadow: inset 0 2px 8px 2px #216497;
 						}
 
 					#header > nav ul li:first-child {
@@ -3034,7 +3042,7 @@ input[type="button"],
 			}
 
 				#header > header {
-					padding: 2em;
+					padding: 1em;
 				}
 
 				#header > footer {
@@ -3463,3 +3471,36 @@ input[type="button"],
 		}
 
 	}
+
+	/* Collapsible*/
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+	background-color: transparent;
+	color: #444;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	border: none;
+	text-align: left;
+	outline: none;
+	font-size: 15px;
+	box-shadow: inset 0 2px 8px 2px #216497;
+	
+}
+
+
+		/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+	.active, .collapsible:hover {
+		background-color: #216497;
+		box-shadow: inset 0 2px 8px 2px #fff;
+	}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+	padding: 0 18px;
+	display: none;
+	overflow: hidden;
+	background-color: transparent;
+	box-shadow: inset 0 2px 8px 2px #fff;
+}
