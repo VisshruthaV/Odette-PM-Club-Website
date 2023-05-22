@@ -1,4 +1,3 @@
-Read Only by HTML5 UP
 
 University of Windsor's Odette Product Management Club Website.
 
@@ -9,11 +8,22 @@ I believe that first impressions can go a long way in terms of the club's outrea
 
 
 Installation and Running:
-	Because the website has google analytics installation code as well as hubspot's API calls, simply downloading the files and running the index file will cause the website to load infinitely.
-	I host the website on 000webhostapp.com, which makes the website load and run.
-	<b>Therefore, the best way to take a look at the website is by viewing it online: https://odettepmclub.000webhostapp.com/
+
+Because the website has google analytics installation code as well as hubspot's API calls, simply downloading the files and running the index file will cause the website to load infinitely.
+I host the website on 000webhostapp.com, which makes the website load and run.
+
+In order to install and run this on your local device:
+1. Download the files from the repository
+2. Modify the index.html file by deleting the code in the Google Tag comment chunk in the head section as well as the beginning of the body section (there should be two code chunks that you delete in total)
+3. Save the file and open the file on your browser. (the only thing it will be missing when compared to the live online website is the hubspot chatbox on the bottom left corner, since this calls for the website to be published)
 
 
+The best way to take a look at the full website is by viewing it online: https://odettepmclub.000webhostapp.com/
+
+Languages:
+	HTML5
+	CSS
+	JavaScript
 
 Credits:
 
