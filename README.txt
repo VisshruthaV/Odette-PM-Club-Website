@@ -1,29 +1,21 @@
 Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+University of Windsor's Odette Product Management Club Website.
+
+Taking inspiration from HTML5's website layout and my designer's (Pranjal Prakash) inputs, I've developed this website in order to establish the Odette Product Management Club's online presence.
+This website also allows club member and/or interested students a space to explore what the club is all about, get connected to the club's various social media accounts and messaging platforms, look up and sign up for the club's sessions and events, connect with the club members, as well as ask us any doubts or concerns that may arise - all found in the website!
+With most clubs at the University of Windsor having club pages that are either facebook pages or other social media pages, we at the Odette Product Management Club wanted to have our very own website that showcases the technological talent that we possess.
+I believe that first impressions can go a long way in terms of the club's outreach / marketing, so why not create a cool and unique website that is personalized to the club?
 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Installation and Running:
+	Because the website has google analytics installation code as well as hubspot's API calls, simply downloading the files and running the index file will cause the website to load infinitely.
+	I host the website on 000webhostapp.com, which makes the website load and run.
+	<b>Therefore, the best way to take a look at the website is by viewing it online: https://odettepmclub.000webhostapp.com/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
@@ -32,3 +24,10 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		html5up.net | @ajlkn
+
+	Developer:
+		Vi Velumani (visshrutha@gmail.com | www.linkedin.com/in/visshrutha-velumani) 
+
+	Design:
+		Pranjal Prakash (pranjalprakash1@gmail.com | www.linkedin.com/in/pranjalprakash1)
