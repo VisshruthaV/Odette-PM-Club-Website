@@ -1,5 +1,5 @@
 
-# University of Windsor's Odette Product Management Club Website.
+University of Windsor's Odette Product Management Club Website.
 
 Taking inspiration from HTML5's website layout and my designer's (Pranjal Prakash) inputs, I've developed this website in order to establish the Odette Product Management Club's online presence.
 This website also allows club member and/or interested students a space to explore what the club is all about, get connected to the club's various social media accounts and messaging platforms, look up and sign up for the club's sessions and events, connect with the club members, as well as ask us any doubts or concerns that may arise - all found in the website!
@@ -7,7 +7,7 @@ With most clubs at the University of Windsor having club pages that are either f
 I believe that first impressions can go a long way in terms of the club's outreach / marketing, so why not create a cool and unique website that is personalized to the club?
 
 
-## Installation and Running:
+Installation and Running:
 
 Because the website has google analytics installation code as well as hubspot's API calls, simply downloading the files and running the index file will cause the website to load infinitely.
 I host the website on 000webhostapp.com, which makes the website load and run.
@@ -20,12 +20,12 @@ In order to install and run this on your local device:
 
 The best way to take a look at the full website is by viewing it online: https://odettepmclub.000webhostapp.com/
 
-### Languages:
+Languages:
 	HTML5
 	CSS
 	JavaScript
 
-### Credits:
+Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
