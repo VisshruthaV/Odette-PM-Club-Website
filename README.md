@@ -19,7 +19,7 @@ In order to install and run this on your local device:
 
 #### The best way to take a look at the full website is by viewing it online: https://odettepmclub.000webhostapp.com/
 
-## Project Skill Outcome
+## Project Skill Outcomes
 
 - HTML5 Proficiency
 - CSS Proficiency
