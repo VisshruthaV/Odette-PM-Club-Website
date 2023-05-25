@@ -18,6 +18,7 @@ In order to install and run this on your local device:
 3. Save the file and open the file on your browser. (the only thing it will be missing when compared to the live online website is the hubspot chatbox on the bottom left corner, since this calls for the website to be published)
 
 #### The best way to take a look at the full website is by viewing it online: https://odettepmclub.000webhostapp.com/
+#### Check out my Figma project that details the design process of the website's wireframe and user flow: https://www.figma.com/file/Vww4rsi53u7DiEHanyORZI/Club-Website-Wireframe-and-User-Flow?type=design&node-id=0%3A1&t=7g5Tuw49o7asQVMe-1
 
 ## Project Skill Outcomes
 
