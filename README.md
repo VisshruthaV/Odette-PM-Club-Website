@@ -19,7 +19,7 @@ In order to install and run this on your local device:
 
 #### The best way to take a look at the full website is by viewing it online: https://odettepmclub.000webhostapp.com/
 #### Check out my Figma project that details the design process of the website's wireframe and user flow: https://www.figma.com/file/Vww4rsi53u7DiEHanyORZI/Club-Website-Wireframe-and-User-Flow?type=design&node-id=0%3A1&t=7g5Tuw49o7asQVMe-1
-#### Check out the PBS & WBS roadmaps that I created for the club's product planning and development: https://vi-velumani.notion.site/vi-velumani/OPMC-Club-Website-PBS-WBS-2bf6ecbc728b488abcbb25241c447e91
+#### Check out the PBS & WBS roadmaps that I created for the club's product planning and development: https://vi-velumani.notion.site/vi-velumani/OPMC-Website-PBS-WBS-Metrics-2bf6ecbc728b488abcbb25241c447e91
 
 ## Project Skill Outcomes
 
@@ -27,10 +27,14 @@ In order to install and run this on your local device:
 - CSS Proficiency
 - JavaScript Proficiency
 - Google Analytics Proficiency
+- Google Tag Manager Proficiency 
 - A/B Testing Skills
 - UI/UX & Figma Skills
 - Debugging Skills
-- Agile Skills
+- Agile Product Management Skills
+- Product Development Skills
+- Software & Data Lifecycles Skills
+- Business Requirements Gathering and Analysis Skills
 
 
 ## Credits:
@@ -47,5 +51,5 @@ In order to install and run this on your local device:
 	Developer:
 		Vi Velumani (visshrutha@gmail.com | www.linkedin.com/in/visshrutha-velumani) 
 
-	Design:
+	Designer:
 		Pranjal Prakash (pranjalprakash1@gmail.com | www.linkedin.com/in/pranjalprakash1)
