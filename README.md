@@ -1,7 +1,7 @@
 
-# Club Website for the Odette Product Management Club at the University of Windsor
+# Club Website for the Odette Product Management Club - University of Windsor
 
-As the director of technology at the Odette Product Management Club, I have developed this website in order to officially establish the Odette Product Management Club's online presence.
+As the Director of Technology & Product Owner at the Odette Product Management Club, I have developed this website in order to officially establish the Odette Product Management Club's online presence.
 This website allows club members and/or interested students a space to explore what the club is all about, get connected to the club's various social media accounts and messaging platforms, look up and sign up for the club's sessions and events, connect with the club's board members, as well as ask us any doubts or concerns that may arise - all found in the website!
 With most clubs at the University of Windsor having club pages that are either facebook pages or other social media pages, we at the Odette Product Management Club wanted to have our very own website that showcases the technological talent that we possess and hope to attract.
 I believe that first impressions can go a long way in terms of the club's outreach / marketing, so why not create a cool and unique website that is personalized to the club?
